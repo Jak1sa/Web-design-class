@@ -1,0 +1,18 @@
+#p{
+    color: blue;
+    font-style: italic;
+    text-align: center;
+}
+.d{
+    color: chartreuse;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-transform: capitalize;
+}
+h1{color: green;
+    text-align: left;
+    text-decoration-style: dashed;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}

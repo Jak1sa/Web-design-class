@@ -1,0 +1,17 @@
+A list of some of the tags and what they do.
+Element	Tag	Discription
+Paragragh element	    <p>                     Used to define a paragraph of text.
+image element	       <img>	                Used to add an image to a web page.
+anchor element	        <a>                     Used to create a hyperlink to another web page or email address.
+Heading element      	<h1>                    Used to define a main heading on a web page.
+Unordered list element	<ul>, <li>	            Used to create a list of elements.
+Division element	   <div>	                Used to group elements together for styling or layout purposes.
+input element	     <input>	                Used to create a form field for user input.
+table element	     <table>	                Used to create a table with rows and columns.
+line break element	   <br>	                    Used to create a new line in a paragraph.
+emphasis element	   <emp>	                Used to make text italic.
+strong element	      <strong>	                Used to make text bold.
+navigation element	    <nav>                   Used to define a section of navigation links.
+footer element	      <footer                   Used to define the footer section of a web page.
+body element	       <body                    Contains the content of the webpage.
+Span element	     <span>	                    Used to group inline elements together.

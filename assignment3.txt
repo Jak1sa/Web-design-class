@@ -1,0 +1,47 @@
+What is Git?
+Git is a version control system used for tracking changes in computer files. It is generally used for source code management in software development.
+
+What is Git used for?
+Git is used for tracking changes in the source code.
+The distributed version control tool is used for source code management.
+It allows multiple developers to work together.
+It supports non-linear development through thousands of parallel branches.
+What are the steps taken to connect your computer to Github?
+Follow these steps to connect your computer to github:
+
+1. Create a Github account: Go to (Github.com) and sign up for an account if you do not already have one.
+
+2. Install Git on your computer: Download and install Git from the official Git website.
+
+3. Set up Git on your computer:
+
+- Open a terminal or command prompt.
+- Run the command git config--global user.name "Your name"
+- Run the command git config--global user.email "Your _email"
+4. Create a new repository on Github:
+
+- Log in to your account
+- Click the "+" button in the top right corner.
+- Choose "New repository" and follow the prompts.
+5. Initialize a Git repository on your computer:
+
+- Open a terminal or command prompt.
+- Navigate to the directory where your project is located.
+- Run the command git init >to initialize a new Git repository.
+6. Link your computer to repository to Githhub:
+
+- Run the command git remote add origin (replace with your Github repository URL).
+- Run the command 'git push -u origin master to push your local changes to Github.
+What is the difference between Git and Github?
+Git:
+
+Git is a version control system (VCS) that allowws you to track changes in your code.
+It's a software that runs on your local machine.
+Git helps you to manage different versions of your code, collaborate with others, and store your codebase.
+You can use Git without Github.
+Github:
+
+Github is a web-based platform that provides a repositroy (repo) for storing and managing your Git projects.
+It's a service that hosts your Git repositories online.
+Github offers features like issue tracking, pull requests, code review, and collaboration tools.
+Github is built on top of Git, but not all Git projects are hosted on Github.

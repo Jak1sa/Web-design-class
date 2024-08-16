@@ -1,0 +1,11 @@
+Global variable is any variable that is defined outside of the function.
+
+Below are some of the global variables;
+
+$GLOBALS: An array of all global variables.
+$_SERVER: An array of server and execution environment information.
+$_GET: An array of variables passed to the script via the URL parameters.
+$_POST: An array of variables passed to the script via HTTP POST method.
+$_FILES: An array of files uploaded to the script via HTTP POST method.
+$_SESSION: An array of session vriables, used to store data across page requests.
+ 

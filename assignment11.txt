@@ -1,0 +1,19 @@
+What is a function in PHP?
+A PHP function feature is a piece of code that can be used over and over again and accepts argument lists as input, and returns  value.
+
+Ten examples of in-built functions in PHP.
+echo(); outputs text or variables to the screen.
+print();outputs text or variables to the screen.
+strlen(); returns the length of a string.
+substr();returns a potion of a string.
+array-merge(); merges two or more arrays into one.
+count(); returns the number of elements in an array.
+sort(); sorts an array in ascending order.
+rand();generates a random integer within a specified range.
+implode();joins an array into a string based on a delimiter.
+explode();splits a string into an array based on  delimiter. 
+
+Differentiate between in-built functions and customised functions.
+In-built PHP functions are predefined, general-purpose and optimized
+while
+Customised functions are user-defined, specific purpose and require additional code

@@ -1,0 +1,22 @@
+What is a database in MYSQL?
+A database is a structured collection of data.
+
+List 6 SQL queries in PHP.
+SELECT Column
+SELECT
+SELECT DISTINCT
+AND
+OR 
+WHERE Clause
+
+What is PHP my admin used for?
+phpMyAdmin is used to handle the administration of a MYSQL database server.
+
+What do the following do in SQL?
+SQL INSERT statement writes new rows of data into a table.
+SQL SELECT statement returns a result set of rows, from one or more tables.
+SQL UPDATE statement changes the data of one or more records in a table.
+DELETE command refers to a data manipulation language command that is used to remove the records present in a table.
+
+What is the use of a primary key in a table?
+It is a unique identifier for rows in a table, so that no two records in the table have the same value.
